@@ -3,8 +3,11 @@
 # Cloud Systematic Evidence-based Review of Articles
 Tool for supporting systematic reviews, both systematic literature reviews and systematic mappings.
 
+This tool is also described in the paper *A Comprehensive Framework to Reinforce Evidence Synthesis Features in Cloud-Based Systematic Review Tools* available at: https://www.mdpi.com/2076-3417/11/12/5527
+
+
 ## Quick start
-Link to the website [CloudSERA](http://slr.uca.es)
+~~Demo online at [CloudSERA](http://slr.uca.es)~~
 
 ## Software License
 This project licence is Eclipse Public License [(EPL-1.0).](https://www.eclipse.org/legal/epl-v10.html)
